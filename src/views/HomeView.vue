@@ -1,9 +1,7 @@
 <script setup>
-import TheWelcome from "../components/TheWelcome.vue";
+import RootPage from "../components/RootPage.vue";
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <RootPage />
 </template>
